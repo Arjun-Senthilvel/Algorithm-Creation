@@ -63,6 +63,7 @@ function bounceOff(p1,p2) {
   {
     if(-((p1.x-p2.x)/-(p1.x-p2.x)) == 1) {
       p2.velocityX = null;
-    } else if
+    }
   }
 }
+//SSH test
